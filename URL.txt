@@ -1,3 +1,3 @@
-https://ytlivemp3.radio.cn/130/stream_10653.mp3?type=1&key=5f14e0c30c5450bb3f26afc3a38b1b01&time=6576a25b
-https://ytlivemp3.radio.cn/130/stream_10641.mp3?type=1&key=726877df4a7bd49d7619432ddba8078d&time=6576a25b
-https://ytlivemp3.radio.cn/130/stream_10639.mp3?type=1&key=d028bbc221e44a61d139684e17ce1925&time=6576a25b
+https://lhttp.qtfm.cn/live/4804/64k.mp3?app_id=web&ts=657d2803&sign=594d93de5c53efe05df43b237690a2b8
+https://lhttp.qtfm.cn/live/20500150/64k.mp3?app_id=web&ts=657d2841&sign=28c774337ae882af40c7cb5137932dcb
+https://lhttp.qtfm.cn/live/15318341/64k.mp3?app_id=web&ts=657d285c&sign=b5917fc4cd8cf40bd5955aa45c24914c
